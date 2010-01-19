@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!ve/bin/python
 # -*- coding: utf-8 -*-
 """Start script for the rollo TurboGears project.
 
